@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-26T09:58:25.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36 Edg/83.0.478.37" etag="Idq5D8aIk2Q5fUo5ubAr" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-26T10:10:28.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36 Edg/83.0.478.37" etag="Mg6VYF227-GibXbj0eLN" version="13.1.3" type="github">
   <diagram id="wAX-wMHq2Bv0zb3NqRvH" name="Page-1">
     <mxGraphModel dx="873" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="390" y="350" width="98" height="98" as="geometry" />
         </mxCell>
         <mxCell id="S0M7ZQBZUYb1YyoEZiFY-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/128/XAMPP.png" parent="1" vertex="1">
-          <mxGeometry x="460" y="410" width="38" height="38" as="geometry" />
+          <mxGeometry x="460" y="410" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S0M7ZQBZUYb1YyoEZiFY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="S0M7ZQBZUYb1YyoEZiFY-17" target="S0M7ZQBZUYb1YyoEZiFY-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -56,6 +56,15 @@
         </mxCell>
         <mxCell id="d4zSdRbsA9QHT7K2mf8D-4" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.keyboard" vertex="1" parent="1">
           <mxGeometry x="130" y="370" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d4zSdRbsA9QHT7K2mf8D-8" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.vpn;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="410" width="32" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d4zSdRbsA9QHT7K2mf8D-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.laptop;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="510" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d4zSdRbsA9QHT7K2mf8D-9" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.client_vpn;" vertex="1" parent="1">
+          <mxGeometry x="540" y="540" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
